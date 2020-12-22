@@ -142,4 +142,7 @@ p {
   [class*="row-"] {
     padding: 40px;
   }
+  [class="body-container"] {
+    margin-top: -40px;
+  }
 }
