@@ -140,9 +140,9 @@ p {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   [class*="row-"] {
-    padding: 40px;
+    padding: 55px;
   }
   [class="body-container"] {
-    margin-top: -40px;
+    margin-top: -20px;
   }
 }
