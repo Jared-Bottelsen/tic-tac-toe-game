@@ -145,5 +145,8 @@ p {
   [class="body-container"] {
     margin-top: -20px;
   }
-}
 
+  [class="reset-button"] {
+    width: 150px;
+  }
+}
